@@ -1,4 +1,5 @@
 # ExtractSignalKey
+## Only work on Android with version 11 or below.
 ## How to
 Paste the ENCRYPTED_SECRET found in shared_pref to MainActivity.java and SecondFragment.java.
 
