@@ -5,6 +5,7 @@
     * Extract the shared preference from the device.
     * Enable developer mode in Android's setting.
     * [ADB](https://developer.android.com/tools/adb).
+    * Java 8 (The GitHub workflow uses [Temurin](https://adoptium.net/temurin/releases/)).
  
 2. Clone this repo:
 ```sh
